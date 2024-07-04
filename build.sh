@@ -16,4 +16,4 @@ fi
 
 make -j -C ../tkey-libs
 
-make -j
+make -j TKEY_SIGNER_APP_NO_TOUCH=yesplease
